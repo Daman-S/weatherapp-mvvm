@@ -1,0 +1,2 @@
+My mobile apps class in college was in Java. While I learned fundamentals, the course was a little outdated, so this is the app I created after learning Kotlin, MVVM architecture and dependency injection concepts for my current job. Looking at it now, I'd do some things differently like using actions/reactions, breaking the project into modules etc
+![weather app](https://github.com/Daman-S/weatherapp-mvvm/assets/56235718/39865368-10b8-422e-a92d-08949d47ba9b)
